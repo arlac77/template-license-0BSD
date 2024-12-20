@@ -1,11 +1,6 @@
 {
   "license": "0BSD",
   "template": {
-    "properties": {
-      "license": {
-        "owner": "arlac77"
-      }
-    },
     "mergers": [
       {
         "type": "Readme",

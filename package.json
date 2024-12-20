@@ -20,6 +20,9 @@
         "type": "License",
         "pattern": "LICENSE"
       }
+    ],
+    "usedBy": [
+      "arlac77/template-arlac77-github"
     ]
   }
 }
